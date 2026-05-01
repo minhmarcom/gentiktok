@@ -1,0 +1,146 @@
+[
+  {
+    "role": "Intro",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "DAY 02 VIBE CODE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Bí idea? Dùng AI để ra 10 hướng, chọn 1 hướng dễ quay nhất.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 01",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 01 CHỌN 1 BÀI TOÁN",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Viết 1 câu: “app này giúp ai làm gì trong 10 giây?”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 02",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 02 NHỜ AI VẼ FLOW",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Hỏi AI: “chia thành 3 màn hình + nút bấm cần có”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 03",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 03 LÀM BẢN NHÁP",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Nhờ AI viết checklist tasks theo thứ tự làm.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 04",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 04 TEST NHANH",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Chạy thử 1 vòng người dùng: vào → làm → xong.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "CTA",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 05 ĐĂNG & ITERATE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Chốt 1 flow, không thêm tính năng hôm nay.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  }
+]

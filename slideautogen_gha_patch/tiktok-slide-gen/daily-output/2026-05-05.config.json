@@ -1,0 +1,146 @@
+[
+  {
+    "role": "Intro",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "DAY 05 VIBE CODE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "No-code mạnh nhất ở data đơn giản: form → lưu → hiển thị.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 01",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 01 CHỌN 1 BÀI TOÁN",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Chọn 3 field quan trọng nhất (đừng quá 5).",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 02",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 02 NHỜ AI VẼ FLOW",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Hỏi AI: “field name + validation dễ hiểu”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 03",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 03 LÀM BẢN NHÁP",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Tạo form + lưu vào sheet/DB (tuỳ tool).",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 04",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 04 TEST NHANH",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Test nhập sai: bỏ trống, quá dài, ký tự lạ.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "CTA",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 05 ĐĂNG & ITERATE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Nếu lưu được data, app đã “sống”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "role": "Intro",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "DAY 03 VIBE CODE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "AI giúp bạn chọn layout nhanh, đỡ bị kẹt ở “không biết bắt đầu”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 01",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 01 CHỌN 1 BÀI TOÁN",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Chọn 1 template UI (list, card, form).",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 02",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 02 NHỜ AI VẼ FLOW",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Hỏi AI: “layout 3 phần: header • body • action”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 03",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 03 LÀM BẢN NHÁP",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Copy text UI từ AI rồi sửa theo giọng bạn.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 04",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 04 TEST NHANH",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Kiểm tra: chữ to, ít chữ, nhìn phát hiểu.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "CTA",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 05 ĐĂNG & ITERATE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Xong UI nháp là thắng. Mai mới polish.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  }
+]

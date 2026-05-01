@@ -1,0 +1,146 @@
+[
+  {
+    "role": "Intro",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "DAY 06 VIBE CODE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "AI giỏi nhất là gỡ rối nhanh nếu bạn đưa đúng ngữ cảnh.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 01",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 01 CHỌN 1 BÀI TOÁN",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Copy lỗi/ảnh màn hình + mô tả bạn muốn gì.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 02",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 02 NHỜ AI VẼ FLOW",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Hỏi AI: “nguyên nhân • cách sửa • cách test lại”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 03",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 03 LÀM BẢN NHÁP",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Fix 1 lỗi/lần. Không sửa 5 thứ cùng lúc.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "Step 04",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 04 TEST NHANH",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Ghi log: lỗi gì → fix gì → học gì.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  },
+  {
+    "role": "CTA",
+    "imagePath": "./pinterest_images/skincare/background.jpg",
+    "lines": [
+      {
+        "text": "STEP 05 ĐĂNG & ITERATE",
+        "size": 82,
+        "weight": "bold",
+        "x": 130,
+        "y": 880,
+        "align": "left",
+        "maxWidth": 860
+      },
+      {
+        "text": "Đăng 1 bài: “mình fix được lỗi này như nào”.",
+        "size": 44,
+        "weight": "normal",
+        "x": 130,
+        "y": 970,
+        "align": "left",
+        "maxWidth": 760
+      }
+    ]
+  }
+]

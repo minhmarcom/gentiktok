@@ -1,0 +1,14 @@
+{
+  "name": "tiktok-slide-gen",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate-slides.mjs config.json",
+    "generate:week": "node generate-week.mjs --start 2026-05-01 --days 7"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.77",
+    "sharp": "^0.33.5"
+  }
+}
